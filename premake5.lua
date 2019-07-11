@@ -19,7 +19,7 @@ project "GLFW"
     }
     
 	filter "system:windows"
-        systemversion "10.0.17134.0"
+        systemversion "latest"
         staticruntime "On"
         
         files
